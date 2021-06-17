@@ -80,39 +80,39 @@ The below limitations are noted in the project and the associated final product:
 
 ### The data history of the user selected ticker upto ten years is used for the model. The sample initial data extract is shown below:
 
-![plot](./Images/2_data_extract.png)
+![plot](./Images/2_data.PNG)
 
 
 ### Post extraction of data, a bollinger analysis is conducted and the output is converted to a bollinger trading signal
 
-![plot](./Images/3_bollinger_analysis.png)
+![plot](./Images/3_bollinger_analysis.PNG)
 
 
 ### A simple moving average analysis is conducted and an associated trading signal is generated:
 
-![plot](./Images/4_sma.png)
+![plot](./Images/4_sma.PNG)
 
 
 ### An exponential weighted moving average analysis is conducted and an associated trading signal is generated:
 
-![plot](./Images/5_ewm.png)
+![plot](./Images/5_ewm.PNG)
 
 
 ### An volatility trend signal analysis is conducted and an associated trading signal is generated:
 
-![plot](./Images/6_vol.png)
+![plot](./Images/6_vol.PNG)
 
 ### The target variable is described as below using next day returns as the prediction:
 
-![plot](./Images/7_target.png)
+![plot](./Images/7_target.PNG)
 
 ### The model dataset is shown below with the decision variabole and features:
 
-![plot](./Images/8_model_data.png)
+![plot](./Images/8_model_data.PNG)
 
 ### The model result summary is presented below:
 
-![plot](./Images/9_results.png)
+![plot](./Images/9_results.PNG)
 
 
   
