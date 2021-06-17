@@ -106,7 +106,7 @@ The below limitations are noted in the project and the associated final product:
 
 ![plot](./Images/7_target.PNG)
 
-### The model dataset is shown below with the decision variabole and features:
+### The model dataset is shown below with the decision variable and features:
 
 ![plot](./Images/8_model_data.PNG)
 
