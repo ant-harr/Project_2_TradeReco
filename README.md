@@ -46,7 +46,7 @@ The below conditions should be met to seamlessly run the project code:
 
 The project output is a dashboard with the following tabs as noted below:
 
-![plot](./Images/1_product.png)
+![plot](./Images/1_product.PNG)
 
 The tabs in the dashboard include:
 
