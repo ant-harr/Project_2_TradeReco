@@ -64,7 +64,7 @@ The tabs in the dashboard include:
 
 -   Model dataset with decision variable and features (Bollinger, Simple Moving Average, EWM and Volatility Trend)
 
--   Results Summary which shows the Root Mean Square and F1 Score assessment of two decision tree models - one with depth 3 and the other with depth 4. The prediction for the model woth lower RMSE score OR higher F1 Score is presented.
+-   Results Summary which shows the Root Mean Square and F1 Score assessment of two decision tree models - one with depth 3 and the other with depth 4. The prediction for the model with lower RMSE score OR higher F1 Score is presented.
 
 
 # **Project Limitations**
