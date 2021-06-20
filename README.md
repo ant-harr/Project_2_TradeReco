@@ -28,7 +28,7 @@ The project presents the below results:
 
 The project code comprises of:
 
--   The Jupyter Notebook file -- Project2.ipynb
+-   The Jupyter Notebook file -- Project2_updated.ipynb
 
 -   Download the above file from GitHub
 
